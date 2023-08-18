@@ -1,6 +1,13 @@
 # Football Match Prediction
 Predicts whether the home team will win the given match or not  
 
+
+# Files in this repository
+1. Data: Contains data obtained after feature engineering  
+2. Datasets: contains the raw unprocessed data  
+3. Performance: Contains the evaluation metrics/classification reports of various models used
+
+
 # Dataset
 Premier league match data from the past 22 years. You can download it from this [link](https://www.kaggle.com/datasets/saife245/english-premier-league?select=Datasets)  
 
@@ -19,7 +26,8 @@ such as cumulative team points for the season, current form, head to head past m
 
 Model Accuracy: 65%  
 F1 Score: **0.64**    
-Run the file logistic_regression.py to train the model
+Run the file logistic_regression.py to train the model  
+Check out the performance details [here](Performance/lr_Performance.txt)
 
 <h4>Confusion Matrix</h4>
 
