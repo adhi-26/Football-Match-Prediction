@@ -1,0 +1,4 @@
+SVC GridSearchCV
+num_features = 20
+
+F1 score and accuracy score for training set: 0.7108 , 0.6255.F1 score and accuracy score for test set: 0.7104 , 0.6257.

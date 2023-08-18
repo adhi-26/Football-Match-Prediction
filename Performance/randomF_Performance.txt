@@ -1,0 +1,11 @@
+Random Forest
+num_features = 20
+
+              precision    recall  f1-score   support
+
+           H       0.61      0.56      0.58       631
+          NH       0.65      0.69      0.67       737
+
+    accuracy                           0.63      1368
+   macro avg       0.63      0.62      0.62      1368
+weighted avg       0.63      0.63      0.63      1368

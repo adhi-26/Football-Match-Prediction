@@ -1,0 +1,11 @@
+XGBoost
+num_features = 20
+
+              precision    recall  f1-score   support
+
+           H       0.57      0.53      0.55       631
+          NH       0.62      0.66      0.64       737
+
+    accuracy                           0.60      1368
+   macro avg       0.60      0.59      0.59      1368
+weighted avg       0.60      0.60      0.60      1368
