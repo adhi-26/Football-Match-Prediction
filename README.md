@@ -38,7 +38,8 @@ Check out the performance details [here](Performance/lr_Performance.txt)
 Model Accuracy: 63%   
 F1 Score: **0.63**    
 
-Run the file random_forest.py to train the model
+Run the file random_forest.py to train the model  
+Check out the performance details [here](Performance/randomF_Performance.txt)
 
 <h4>Confusion Matrix</h4>
 
@@ -49,7 +50,8 @@ Run the file random_forest.py to train the model
 Model Accuracy: 65%  
 F1 Score: **0.65**    
 
-Run the file SVC.py to train the model
+Run the file SVC.py to train the model  
+Check out the performance details [here](Performance/SVC_Performance.txt)
 
 <h4>Confusion Matrix</h4>
 
@@ -61,16 +63,19 @@ Run the file SVC.py to train the model
 Model Accuracy: 60%  
 F1 Score: **0.60**    
 
-Run the file xgb.py to train the model
+Run the file xgb.py to train the model  
+Check out the performance details [here](Performance/xgboost_Performance.txt)
 
 ![xgboost](Plots/xgboost_cm.png)
 
-<h3>GridSearchCV</h3>
+<h3>GridSearchCV on SVC Model</h3>
 
 Scoring: F1   
 Training: **0.7108**  
 Test    : **0.7104**  
-Accuracy: 62.55%
+Accuracy: 62.55%  
+
+Check out the performance details [here](Performance/SVC_gridsearchcv_Performance.txt)
 
 
 
