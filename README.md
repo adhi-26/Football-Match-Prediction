@@ -18,6 +18,7 @@ such as cumulative team points for the season, current form, head to head past m
 <h3>Logistic Regression</h3>
 
 Model Accuracy: 65%  
+F1 Score: **0.64**    
 Run the file logistic_regression.py to train the model
 
 <h4>Confusion Matrix</h4>
@@ -27,6 +28,7 @@ Run the file logistic_regression.py to train the model
 <h3>Random Forest</h3>
 
 Model Accuracy: 63%   
+F1 Score: **0.63**    
 
 Run the file random_forest.py to train the model
 
@@ -37,6 +39,8 @@ Run the file random_forest.py to train the model
 <h3>Support Vector Classifier</h3>
 
 Model Accuracy: 65%  
+F1 Score: **0.65**    
+
 Run the file SVC.py to train the model
 
 <h4>Confusion Matrix</h4>
@@ -46,7 +50,9 @@ Run the file SVC.py to train the model
 
 <h3>XGBoost</h3>
 
-Model Accuracy: 60%
+Model Accuracy: 60%  
+F1 Score: **0.60**    
+
 Run the file xgb.py to train the model
 
 ![xgboost](Plots/xgboost_cm.png)
@@ -54,9 +60,9 @@ Run the file xgb.py to train the model
 <h3>GridSearchCV</h3>
 
 Scoring: F1   
-Training: 0.7108  
-Test    : 0.7104  
-Accuracy: 0.6255
+Training: **0.7108**  
+Test    : **0.7104**  
+Accuracy: 62.55%
 
 
 
